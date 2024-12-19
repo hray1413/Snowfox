@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 歡迎來到雪狐伺服器
 ---
 
